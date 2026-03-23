@@ -1,0 +1,64 @@
+Venta realizada
+----- CLIENTES -----
+CC  ID: 1010  Membresia: Premium
+
+----- SUPLEMENTOS -----
+Creatina  Precio: 10000.0
+
+----- CLIENTES -----
+CC  ID: 1010  Membresia: Premium
+
+----- SUPLEMENTOS -----
+Creatina  Precio: 10000.0
+
+----- CLIENTES -----
+CC  ID: 1010  Membresia: Premium
+
+----- SUPLEMENTOS -----
+Creatina  Precio: 10000.0
+
+----- CLIENTES -----
+CC  ID: 1010  Membresia: Premium
+
+----- SUPLEMENTOS -----
+Creatina  Precio: 10000.0
+
+----- CLIENTES -----
+CC  ID: 1010  Membresia: Premium
+
+----- SUPLEMENTOS -----
+Creatina  Precio: 10000.0
+Cliente agregado: modelo.Cliente@49d62fce
+
+----- CLIENTES -----
+CC  ID: 1010  Membresia: Premium
+DD  ID: 2020  Membresia: Premium
+
+----- SUPLEMENTOS -----
+Creatina  Precio: 10000.0
+Cliente agregado: modelo.Cliente@475c5657
+Suplemento agregado: Proteina Precio: 300000.0
+
+Cliente agregado: CUN ID: 5050 Membresia: PREMIUM
+Suplemento agregado: PROTEINA Precio: 200000.0
+
+----- CLIENTES -----
+CUN  ID: 5050  Membresia: PREMIUM
+
+----- SUPLEMENTOS -----
+CREATINA  Precio: 250000.0
+
+----- CLIENTES -----
+CUN  ID: 5050  Membresia: PREMIUM
+
+----- SUPLEMENTOS -----
+CREATINA  Precio: 250000.0
+Cliente agregado: CUN2 ID: 1010 Membresia: PREMIUM
+Suplemento agregado: AMINOACIDOS Precio: 100000.0
+
+----- CLIENTES -----
+CUN  ID: 1010  Membresia: PREMIUM
+
+----- SUPLEMENTOS -----
+PROTEINA  Precio: 20000.0
+
